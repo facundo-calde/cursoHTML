@@ -1,0 +1,15 @@
+@font-face {
+    font-family: ¨comic-sans¨;
+    src: url(/css/propiedades_de_texto/fonts/ComicNeue-LightItalic.ttf) format(truetype);
+    font-weight: 100 ;
+}   
+@font-face {
+    font-family: ¨comic-sans¨;
+    src: url(/css/propiedades_de_texto/fonts/ComicNeue-Regular.ttf) format(truetype);
+    font-weight: 400 ;
+} 
+@font-face {
+    font-family: ¨comic-sans¨;
+    src: url(/css/propiedades_de_texto/fonts/ComicNeue-Bold.ttf) format(truetype);
+    font-weight: 600 ;
+} 
